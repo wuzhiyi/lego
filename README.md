@@ -20,10 +20,12 @@
 - 项目
     - 【POC】项目集成
 
-## 优先级
+## 路线图 & 优先级
 
 - P0
-    - Axure 组件库
+    - Axure 组件库（Enterplorer，Manager，Studio，POC）
+    - Changelog（Issue）
+    - 组件库预览图（Issue）
 - P1
     - Sketch 组件库
 - P2
