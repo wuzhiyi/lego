@@ -1,6 +1,7 @@
 ## 说明
 
 - [Issues：Priority & Changelog #3](https://github.com/wuzhiyi/component-library/issues/3)
+    - 查看路线图，以及更新日志
 - 格式
     - repo 中的 `.rplib` 格式文件为 Axure RP8 Library 源文件，在 Axure>Library>Add Library 即可添加组件库到生产环境。
 - 产品
